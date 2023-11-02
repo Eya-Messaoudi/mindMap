@@ -28,14 +28,13 @@ const Dedicaces = ({ id }) => {
             </div>
             <div className="modal-body text-start text-secondary">
               <ul>
-                <li>Elle doit etre facultative</li>
+                <li>facultative</li>
                 <li>
                   {" "}
-                  Elle doit etre personnelle et s'adresse aux parents, aux
-                  proches, aux amis...
+                  personnelle, adresser aux parents, aux proches, aux amis, etc.
                 </li>
-                <li>Utiliser le pronom « Je »</li>
-                <li> Elle ne porte pas de numéro de bas de page.</li>
+                <li>Utilisation le pronom « Je »</li>
+                <li> pas de numérotation de page.</li>
               </ul>
             </div>
           </div>

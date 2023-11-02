@@ -29,34 +29,33 @@ const TableMatiere = ({ id }) => {
             <div className="modal-body text-start text-secondary">
               <ul>
                 <li>
-                  La table des matières reproduit les titres et sous-titres
-                  contenus dans le travail et indique les pages où l'on peut les
-                  retrouver dans le rapport
+                  Reproduire les titres et sous-titres contenus dans le travail
+                  dans la table des matières, et indiquer les pages où on peut
+                  les retrouver dans le rapport.
                 </li>
                 <li>
-                  Il est recommandé de ne pas dépasser quatre niveaux de détails
+                  Limiter le nombre de niveaux de détails à quatre au maximum.
                   (1, 1.1, 1.1.1, 1.1.1.1.){" "}
                 </li>
                 <li>
-                  Elle doit être générée automatiquement moyennant les styles
-                  utilisés pour les titres.
+                  Générer automatiquement la table des matières en utilisant les
+                  styles appliqués aux titres.
                 </li>
                 <li>
-                  Les dédicaces, les remerciements, la liste des tableaux et la
-                  table des figures ne doivent pas y figurer
+                  Ne pas inclure les dédicaces, les remerciements, la liste des
+                  tableaux, et la table des figures dans la table des matières.
                 </li>
-                <li>Elle doit être claire et détaillée</li>
+                <li>Rendre la table des matières claire et détaillée.</li>
                 <li>
-                  Les annexes doivent apparaître dans la table des matières et
-                  être paginées également.
-                </li>
-                <li>
-                  La page présentant la table des matières ne porte pas de
-                  numéro de bas de page.
+                  Inclure les annexes dans la table des matières et paginer
+                  celles-ci de manière cohérente.
                 </li>
                 <li>
-                  Il faut faire distinguer entre la table de matiéres et le
-                  sommaire
+                  Ne pas numéroter la page qui affiche la table des matières en
+                  bas de page.
+                </li>
+                <li>
+                  Faire distinguer entre la table des matières et le sommaire.
                 </li>
               </ul>
             </div>

@@ -32,21 +32,22 @@ const CorpsTrav = ({ id }) => {
                   Introduction générale
                   <ul>
                     <li>
-                      Votre rapport doit comprendre une introduction d'une à 3
-                      pages où vous poserez clairement le problème auquel vous
-                      allez tenter d'apporter une solution
+                      Inclure une introduction d'une à trois pages dans votre
+                      rapport, où exposer de manière claire le problème auquel
+                      vous chercherez à fournir une solution.
                     </li>
                     <li>
-                      L'introduction doit se rédiger à la fin du travail de
-                      rédaction
+                      Rédiger l'introduction à la fin du processus de rédaction
+                      du travail.
                     </li>
                     <li>
-                      Elle doit à la fois définir le public, le sujet ou
-                      l'orientation de votre rapport et annoncer le plan
+                      Générer une introduction qui définisse à la fois le
+                      public, le sujet ou l'orientation de votre rapport, et qui
+                      annonce le plan
                     </li>
                     <li>Recourir au « nous » de modestie</li>
                     <li>
-                      Elle doit développer les points suivants:
+                      Développer les points suivants:
                       <ul>
                         <li>La présentation du contexte du projet</li>
                         <li>
@@ -65,16 +66,16 @@ const CorpsTrav = ({ id }) => {
                   Chapitres
                   <ul>
                     <li>
-                      Chaque chapitre doit comporter une introduction partielle{" "}
+                      comporter une introduction partielle pour chaque chapitre{" "}
                       (<strong>utiliser le "nous" avec le futur</strong>), qui
                       annonce le contenu, et une conclusion partielle (
                       <strong>utiliser le "nous" avec le passé composé</strong>)
                     </li>
                     <li>
-                      Il faut veiller à indiquer la source bibliographique des
-                      idées empruntées à d'autres auteurs (livres, articles,
-                      rapports de PFE, manuels de référence, documents trouvés
-                      sur le web de source fiable, etc.)
+                      Veiller à indiquer la source bibliographique des idées
+                      empruntées à d'autres auteurs (livres, articles, rapports
+                      de PFE, manuels de référence, documents trouvés sur le web
+                      de source fiable, etc.)."
                     </li>
                     <li>
                       présenter la mission qui vous a été confiée, les objectifs
@@ -83,9 +84,9 @@ const CorpsTrav = ({ id }) => {
                       employées et vos résultats.
                     </li>
                     <li>
-                      A l'utilisation d'une technique particulière, nouvelle,il
-                      faut comparer-la aux autres méthodes existantes et
-                      justifier vos choix et critiques.{" "}
+                      Comparer l'utilisation d'une technique particulière,
+                      nouvelle, aux autres méthodes existantes et justifier vos
+                      choix et critiques.{" "}
                     </li>
                     <li>
                       Justifier le choix des outils utilisés on précisant les
@@ -102,35 +103,36 @@ const CorpsTrav = ({ id }) => {
                   Conclusion générale
                   <ul>
                     <li>
-                      La conclusion générale doit d'ailleurs y avoir entre les
-                      deux un parallélisme car elle répond aux questions
-                      soulevées dans l'introduction
+                      Maintenir un parallélisme entre la conclusion générale et
+                      l'introduction, car elle répond aux questions posées
+                      initialement.
                     </li>
                     <li>
                       {" "}
-                      La taille de la conclusion doit être réduite, une page de
-                      texte tout au plus.
+                      Réduire la taille de la conclusion à une page de texte au
+                      maximum.
                     </li>
                     <li>
-                      Elle ne doit pas comporter de nouveaux résultats ni de
-                      nouvelles interprétations
+                      S'abstenir d'inclure de nouveaux résultats ou de nouvelles
+                      interprétations dans la conclusion
                     </li>
                     <li>
-                      La conclusion générale comporte souvent :{" "}
+                      Comporter souvent dans la conclusion générale :{" "}
                       <ul>
-                        <li>un résumé très rapide du corps du texte</li>
-                        <li>Un rappel des objectifs du projet</li>
+                        <li>Faire un résumé très rapide du corps du texte.</li>
+                        <li>Rappeler les objectifs du projet</li>
                         <li>
-                          Un bilan professionnel qui indique clairement les
-                          objectifs annoncés dans l'introduction et en
-                          particulier ceux qui n'ont pu être atteints. I
+                          Indiquer clairement les objectifs annoncés dans
+                          l'introduction et en particulier ceux qui n'ont pu
+                          être atteints dans un bilan professionnel.
                         </li>
                         <li>
-                          Un bilan personnel qui décrit les principales leçons
-                          que vous tirez de cette expérience sur le plan humain
+                          Décrire les principales leçons que vous tirez de cette
+                          expérience sur le plan humain dans un bilan personnel.
                         </li>
                         <li>
-                          Les limites et les perspectives du travail effectué
+                          Exposer les limites et les perspectives du travail
+                          effectué.
                         </li>
                       </ul>
                     </li>

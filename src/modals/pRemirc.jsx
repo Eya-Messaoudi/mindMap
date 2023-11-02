@@ -29,9 +29,10 @@ const Remerciment = ({ id }) => {
             <div className="modal-body text-start text-secondary">
               <ul>
                 <li>
-                  Remercier les responsables de l'entreprise/l'organisme
-                  d'accueil, les encadrants pédagogiques et professionnels et
-                  toute personne qui a apporté une contribution au travail.
+                  Exprimer des remerciements envers les responsables de
+                  l'entreprise ou de l'organisme d'accueil, les encadrants
+                  pédagogiques et professionnels, ainsi que toutes les personnes
+                  ayant contribué au travail.
                 </li>
                 <li> Éviter les formules trop savantes ou trop chaleureuses</li>
                 <li>Utiliser le pronom « Je ».</li>
@@ -39,7 +40,7 @@ const Remerciment = ({ id }) => {
                   Respecter les normes de présentation des NOMS des personnes
                   adressées{" "}
                 </li>
-                <li>Elle ne porte pas de numéro de bas de page.</li>
+                <li>Ne pas numéroter cette page en bas.</li>
               </ul>
             </div>
           </div>

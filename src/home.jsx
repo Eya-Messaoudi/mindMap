@@ -1,5 +1,4 @@
 import { Link } from "react-router-dom";
-
 const Home = () => {
   return (
     <div className="home body d-flex flex-column min-vh-100 ">
@@ -17,6 +16,11 @@ const Home = () => {
         <div className="col-md-6 offset-md-1 rounded mt-4 text-center d-flex justify-content-center align-items-center">
           <Link to="/fond" className="display-5 p-3">
             Fond
+          </Link>
+        </div>
+        <div className="col-md-6 offset-md-1 rounded mt-4 text-center d-flex justify-content-center align-items-center">
+          <Link to="/mindmap" className="display-5 p-3">
+            Mind map
           </Link>
         </div>
       </div>

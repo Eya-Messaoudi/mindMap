@@ -32,21 +32,23 @@ const Biblio = ({ id }) => {
                   Bibliographie
                   <ul>
                     <li>
-                      Doit recenser, par ordre d'apparition dans le texte (le
-                      rapport), l'ensemble des sources qui ont été consultées et
-                      qui sont référencées dans le texte
+                      Recenser, par ordre d'apparition dans le texte (le
+                      rapport), toutes les sources consultées et référencées
+                      dans le texte.
                     </li>
                     <li>
-                      Le lecteur doit y trouver les ouvrages (Thèses, Mémoires,
-                      livres, articles, rapports de PFE, manuels de référence,
-                      documents trouvés sur le Web de source fiable, etc.) qui
-                      ont servi à la rédaction du texte et à l'élaboration des
-                      figures ou des tableaux
+                      Rédiger la liste des sources en suivant l'ordre
+                      d'apparition dans le texte (le rapport), en incluant tous
+                      les ouvrages (thèses, mémoires, livres, articles, rapports
+                      de PFE, manuels de référence, documents provenant de
+                      sources fiables sur le Web, etc.) qui ont été consultés
+                      pour la rédaction du texte et la création des figures ou
+                      des tableaux.
                     </li>
                     <li>
                       {" "}
-                      Il n'est pas nécessaire de présenter séparément la
-                      Bibliographie et la Webographie.
+                      Ne pas présenter séparément la bibliographie et la
+                      webographie.
                     </li>
                   </ul>
                 </li>
@@ -54,14 +56,14 @@ const Biblio = ({ id }) => {
                   Annexes
                   <ul>
                     <li>
-                      Les informations- trop détaillées ou constituant un
-                      complément d'information pour toute personne qui désire
-                      mieux comprendre ou refaire une expérience décrite dans le
-                      document- peuvent être mises au niveau des annexes.
+                      Inclure les informations qui sont trop détaillées ou qui
+                      servent de compléments pour ceux qui souhaitent mieux
+                      comprendre ou reproduire une expérience décrite dans le
+                      document au niveau des annexes.
                     </li>
                     <li>
-                      Les annexes doivent être numérotées avec des titres
-                      (Annexe1, Annexe 2, etc.).
+                      Numéroter les annexes avec des titres, comme Annexe 1,
+                      Annexe 2, etc.
                     </li>
                   </ul>
                 </li>
@@ -69,21 +71,18 @@ const Biblio = ({ id }) => {
                   Resumé
                   <ul>
                     <li>
-                      Les résumés doivent être présentés au verso de la dernière
-                      page du rapport
+                      Présenter les résumés au verso de la dernière page du
+                      rapport.
                     </li>
                     <li>
-                      Doivent rappeler les principaux objectifs du travail ainsi
-                      que les réalisations effectuées
+                      Rappeler les principaux objectifs du travail ainsi que les
+                      réalisations effectuées dans les résumés.
                     </li>
+
                     <li>
-                      Chaque résumé doit être accompagné de mots clés (cinq en
-                      moyenne) permettant de rattacher le projet de
-                      SFE/PFA/PFE/MEMOIRE à son contexte d'application.
-                    </li>
-                    <li>
-                      Le résumé et les mots clés en anglais et en arabe doivent
-                      être une traduction fidèle de la version française.{" "}
+                      Assurer que le résumé et les mots-clés en anglais et en
+                      arabe soient une traduction fidèle de la version
+                      française.{" "}
                       <strong>
                         Eviter de copier/coller les versions que proposent les «
                         traducteurs automatiques », type «Google Traduction»

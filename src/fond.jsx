@@ -12,8 +12,7 @@ const Fond = () => {
     <div className="forme body d-flex flex-column min-vh-100 ">
       <div className="row">
         <div className="alert m-5  text-white fw-semibold fs-3" role="alert">
-          Le rapport d'un PFE doit contenir,<b>dans cet ordre</b> , les éléments
-          suivants :
+          Le rapport d'un PFE doit contenir les éléments suivants :
         </div>
       </div>
       <div className="container row text-white g-5 ms-5">

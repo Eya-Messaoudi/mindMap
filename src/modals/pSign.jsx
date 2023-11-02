@@ -28,7 +28,7 @@ const Signature = ({ id }) => {
             </div>
             <div className="modal-body text-start text-secondary">
               <ul>
-                <li>Voir l'exemple dans le fichier GuidePFEISI</li>
+                <li>suivre la thématique imposée par votre université</li>
               </ul>
             </div>
           </div>

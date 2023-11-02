@@ -10,30 +10,25 @@ const Forme = () => {
               <div className="card-text">
                 <ul>
                   <li>
-                    Le caractère typographique doit être uniforme du début à la
-                    fin du rapport
+                    Utiliser la police "Times New Roman" en taille de 12 points
+                    et un interligne de 1,5 cm.
                   </li>
                   <li>
-                    La taille du caractère doit être la police « Times new roman
-                    »,12 points et l'interligne de 1,5 cm
+                    Justifier le texte et éviter l'utilisation du soulignement,
+                    du gras et de l'italique.
                   </li>
                   <li>
-                    Le texte doit être en justifié. Il faut éviter le
-                    soulignement et le gras et l'italique
+                    Appliquer la même police et la même taille de caractères aux
+                    titres.
                   </li>
                   <li>
-                    Les titres doivent être avec la même police de caractères et
-                    de même taille
+                    Utiliser les "Styles" pour les différents niveaux de titres.
                   </li>
                   <li>
-                    utiliser les « Styles » pour les différents niveaux de
-                    titres
+                    Vérifier la numérotation et être attentif aux titres
+                    orphelins.
                   </li>
-                  <li>
-                    Vérifiez la numérotation et faire attention aux titre
-                    orphelins
-                  </li>
-                  <li>Évitez les chiffres romains.</li>
+                  <li>Éviter l'utilisation des chiffres romains.</li>
                 </ul>
               </div>
             </div>
@@ -46,18 +41,18 @@ const Forme = () => {
               <div className="card-text">
                 <ul>
                   <li>
-                    Le numéro des pages doit étre indiqué dans le coin inférieur
-                    droit des feuilles, seul sans point ni tiret ni parenthèses
+                    Indiquer le numéro des pages dans le coin inférieur droit
+                    des feuilles, sans utiliser de point, de tiret ni de
+                    parenthèses.
                   </li>
                   <li>
-                    La page de l'introduction générale doit porter le numéro de
-                    page 1
+                    Numéroter la page de l'introduction générale comme page 1.
                   </li>
                   <li>
                     {" "}
-                    Toutes les pages, de l'introduction générale - à la fin du
-                    rapport se paginent en chiffres arabes (1, 2, 3, etc.){" "}
-                    <strong>Les annexes sont comprises.</strong>
+                    Paginer toutes les pages, de l'introduction générale jusqu'à
+                    la fin du rapport, en utilisant des chiffres arabes(1, 2, 3,
+                    etc.) <strong> y compris les annexes.</strong>
                   </li>
                 </ul>
               </div>
@@ -73,27 +68,27 @@ const Forme = () => {
                 <ul>
                   <li>
                     {" "}
-                    Les signes simples (le point, le point-virgule et les trois
-                    points de suspension) ne prennent qu'une espace après
+                    Placer une espace après les signes simples, tels que le
+                    point, le point-virgule et les trois points de suspension.
                   </li>
                   <li>
-                    Les signes doubles (les deux points, le point-virgule, le
+                    Insérer une espace avant et une espace après les signes
+                    doubles, tels que les deux points, le point-virgule, le
                     point d'exclamation, le point d'interrogation, les
-                    guillemets et les parenthèses) prennent une espace avant et
-                    une espace après
+                    guillemets et les parenthèses.
                   </li>
                   <li>
-                    Pas d'espace à l'intérieur des crochets, des guillemets et
-                    des parenthèses.
+                    Ne pas insérer d'espace à l'intérieur des crochets, des
+                    guillemets et des parenthèses.
                   </li>
                   <li>
-                    Pas d'espace avant et après le trait d'union, ainsi que
-                    l'apostrophe. Une espace après le tiret s'il est utilisé
-                    pour une énumération
+                    Ne pas ajouter d'espace avant ni après le trait d'union et
+                    l'apostrophe. Cependant, ajouter une espace après le tiret
+                    s'il est utilisé pour une énumération.
                   </li>
                   <li>
-                    etc. n'est jamais suivi de point de suspension. Soit on met
-                    trois points de suspension soit etc., mais pas les deux
+                    Ne pas suivre "etc." d'un point de suspension. Utiliser soit
+                    trois points de suspension, soit "etc.", mais pas les deux.
                   </li>
                 </ul>
               </div>
@@ -108,15 +103,13 @@ const Forme = () => {
               <div className="card-text">
                 <ul>
                   <li>
-                    La marge doit étre : 2 cm de chaque côté,
-                    <strong>
-                      avec 0.5cm ou 1 cm de plus du côté gauche
-                    </strong>{" "}
+                    Définir une marge de 2 cm de chaque côté{" "}
+                    <strong>avec 0.5cm ou 1 cm de plus du côté gauche</strong>{" "}
                   </li>
                   <li>
                     {" "}
-                    L'entête et le pied de page doivent étre disposé à 1,5 cm à
-                    partir du bord.
+                    Positionner l'entête et le pied de page à une distance de
+                    1,5 cm à partir du bord.
                   </li>
                 </ul>
               </div>

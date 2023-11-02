@@ -29,23 +29,24 @@ const Garde = ({ id }) => {
             <div className="modal-body text-secondary text-start ">
               <ul>
                 <li>
-                  Une attention spéciale doit être accordée à cette page pour
-                  éviter qu'elle contienne des fautes (orthographe, forme etc.).
+                  Accorder une attention spéciale à cette page afin d'éviter
+                  qu'elle ne contienne des fautes, que ce soit en termes
+                  d'orthographe, de forme, etc.
                 </li>
                 <li>
-                  Elle doit porter les indications nécessaires à
-                  l'identification du stage, des encadrants et de l'auteur
+                  Porter les indications nécessaires pour identifier le stage,
+                  les encadrants et l'auteur.
                 </li>
                 <li>
                   {" "}
-                  Elle doit etre imprimée sur un papier cartonné de couleur
-                  neutre (blanc ou couleur sobre)
+                  Imprimer cette page sur un papier cartonné de couleur neutre,
+                  comme le blanc ou une couleur sobre.
                 </li>
                 <li>
-                  Elle doit étre suivie d'une page blanche puis d'une page de
-                  titre interne, identique à la page de garde, mais imprimée sur
-                  un papier normal (simple, en noir et blanc). Elles ne portent
-                  pas de numéro de bas de page.
+                  Suivre la page par une page blanche, puis créer une page de
+                  titre interne, en veillant à ce qu'elle soit identique à la
+                  page de garde, mais imprimée sur du papier ordinaire en noir
+                  et blanc, sans numéroter ces pages en bas.
                 </li>
               </ul>
             </div>

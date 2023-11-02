@@ -33,19 +33,18 @@ const ListeTab = ({ id }) => {
                   Liste des tableaux
                   <ul>
                     <li>
-                      Si le rapport comporte plus de trois tableaux, une liste
-                      des tableaux doit etre présentée après la table des
-                      matières.{" "}
+                      Présenter une liste des tableaux après la table des
+                      matières si le rapport contient plus de trois tableaux.{" "}
                     </li>
                     <li>
-                      Elle doit présenter le numéro et le titre de chaque
-                      tableau , 'e numéro correspond à l'ordre d'apparition du
-                      tableau dans un chapitre
+                      Présenter le numéro et le titre de chaque tableau, le
+                      numéro correspondant à l'ordre d'apparition du tableau
+                      dans un chapitre.
                     </li>
                     <li>
                       {" "}
-                      Les tableaux doivent avoir une légende placée au-dessus et
-                      à gauche.
+                      Placer une légende au-dessus et à gauche des tableaux est
+                      une exigence.
                     </li>
                   </ul>
                 </li>
@@ -53,21 +52,20 @@ const ListeTab = ({ id }) => {
                   Liste des figures
                   <ul>
                     <li>
-                      Suit les mêmes règles de présentation que celles prévues
+                      Suivre les mêmes règles de présentation que celles prévues
                       pour la liste des tableaux.
                     </li>
-                    <li> Les figures doivent être claires et lisibles.</li>
+                    <li>Rendre les figures claires et lisibles.</li>
                     <li>
-                      Toutes les figures doivent avoir une légende avec numéro
-                      séquentiel pour tout le rapport, placée au-dessous et
-                      centré.
+                      Inclure une légende avec un numéro séquentiel pour toutes
+                      les figures dans le rapport, la plaçant au-dessous et au
+                      centre.
                     </li>
                     <li>
-                      Le corps du texte doit décrire et faire référence à la
-                      figure (utilisez des expressions comme : comme le montre
-                      la figure 3.1 ou comme illustré par la figure 3.1 ou voir
-                      figure 3.1 ou bien d'après les résultats présentés par la
-                      figure 3.1)
+                      Décrire le contenu de la figure en utilisant des
+                      expressions telles que "comme illustré par la figure 3.1",
+                      "comme le montre la figure 3.1", "voir figure 3.1", ou
+                      "d'après les résultats présentés par la figure 3.1".
                     </li>
                     <li>
                       Éviter les formules telles que, la figure ci-dessous
@@ -82,13 +80,9 @@ const ListeTab = ({ id }) => {
                       citer les sources auxquelles vous empruntez l'illustration
                     </li>
                     <li>
-                      La liste alphabétique des abréviations, des sigles et
-                      acronymes, accompagnée de leur définition,doit etre
-                      présentée dans les pages préliminaires
-                    </li>
-                    <li>
-                      Elle est n'est pas requise lorsqu'un nombre restreint
-                      d"abréviations, sigles et acronymes est utilisé
+                      Présenter la liste alphabétique des abréviations, sigles
+                      et acronymes, accompagnée de leur définition, dans les
+                      pages préliminaires.
                     </li>
                   </ul>
                 </li>
