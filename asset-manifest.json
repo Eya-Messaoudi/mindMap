@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/mindMap/static/css/main.2b9a96f3.css",
+    "main.js": "/mindMap/static/js/main.0b429a64.js",
+    "static/media/mindmap.png": "/mindMap/static/media/mindmap.8baf17abae3af6416ea7.png",
+    "index.html": "/mindMap/index.html",
+    "main.2b9a96f3.css.map": "/mindMap/static/css/main.2b9a96f3.css.map",
+    "main.0b429a64.js.map": "/mindMap/static/js/main.0b429a64.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b9a96f3.css",
+    "static/js/main.0b429a64.js"
+  ]
+}
